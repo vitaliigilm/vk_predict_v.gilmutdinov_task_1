@@ -1,13 +1,18 @@
-## Задание №1 из ТЗ VK Predict. Исполнитель В. Гильмутдинов
+## Задание №1 из ТЗ VK Predict. Исполнитель: В. Гильмутдинов
 
 Проект для генерации push-уведомлений через OpenAI API.
 
 ## Структура
-push-notifier/
-├── .env.example
-├── segments.json
-├── main.py
-└── README.md
+
+.env.example
+
+segments.json
+
+main.py
+
+README.md
+
+
 
 ## Установка
 1. Клонируйте репозиторий:
